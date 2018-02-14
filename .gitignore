@@ -4,6 +4,7 @@
 .DS_Store
 .DS_Store?
 ._*
+.build
 .Spotlight-V100
 .Trashes
 Icon?
